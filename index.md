@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-
+DE SITE IS GEBLOCKED DOOR ADGUARD!!!
